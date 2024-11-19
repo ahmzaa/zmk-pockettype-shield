@@ -2,8 +2,6 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: pockettype
-      url-base: https://github.com/ahmzaa/zmk-pockettype-shield
   projects:
     - name: zmk
       remote: zmkfirmware
